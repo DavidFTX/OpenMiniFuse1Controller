@@ -13,8 +13,10 @@ This is here for historical purposes and I don't expect to ever update it.
 
 
 usage:
+```
 minifuse_ctl status
 minifuse_ctl <inst|48v|dm> <on|off|toggle>
+```
 
 
 # Rant
